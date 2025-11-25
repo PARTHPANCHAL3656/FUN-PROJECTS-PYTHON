@@ -5,7 +5,7 @@
 A collection of simple, fun, and educational Python projects built while learning APIs, automation, and Python programming! 
 These projects are beginner-friendly and compatible with any PC.
 
----------------------------------------------------------------------------- Table of Contents --------------------------------------------------------------------------------------------
+---------------------------------------------- Table of Contents -----------------------------------------------
 - [What You'll Learn]
 - [Prerequisites]
 - [Installation]
